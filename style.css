@@ -1,0 +1,140 @@
+body{
+	background-color: #fff;
+
+}
+
+
+/* Header*/
+
+.header {
+    font-weight: 700;
+	width: 100%;
+	max-width: 1180px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+    box-sizing: border-box;
+    background-color: 
+
+
+}
+
+.header_logo{
+
+    padding-left: 100px;
+	padding-top: 30px;
+
+}
+
+
+/* Nav*/
+
+ .nav{
+	
+	display:flex;
+}
+
+.nav_link{
+	color: #000000;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 12px;
+	margin-left: 30px;
+	text-decoration-line: none;
+}
+
+
+
+/* Intro */
+
+
+.intro{
+    
+	height: 600px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+	max-width: 1180px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin: 0 auto;
+}
+
+
+.intro_inner{
+
+
+	text-align: right;
+}
+.intro_title{
+    
+	padding-left:  10px;
+	padding-right: 10px;
+}
+
+
+.intro_subtitle{
+    padding-bottom: 20px;
+	padding-right: 10px;
+	padding-left: 60%;
+	text-align: right;
+}
+
+.btn{
+	margin-right:25%;
+	font-weight: 600;
+	font-size: 12px;
+	font-family: 'Montserrat';
+	padding: 20px 44px;
+	display: inline-block;
+	vertical-align: top;
+	color: #fff;
+	background-color: #0fc9c3;
+	text-decoration: none;
+}
+.btn--blue:hover{
+	font-weight: 600;
+	color: #000000;
+	
+	background-color: #fff;
+      
+
+
+
+}
+/* About */
+
+.about{
+    text-align: center;
+	width: 100%;
+	max-width: 1180px;
+	padding-right: 40px;
+	padding-left: 40px;
+	margin: 0 auto;
+	background-color: #fff;
+
+}
+
+.about_title{
+	margin: 0 auto;
+	padding-bottom: 40px;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+
+}
+
+.about_subtitle{
+	margin: 0 auto;
+	padding-bottom: 40px;
+	padding-left: 20%;
+	padding-right: 20%;
+	font-size: 16px;
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: 400;
+}
+
+
